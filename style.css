@@ -23,7 +23,7 @@ body {
 }
 
 .puzzle {
-    background-image: url("obr1.jpg");
+    background-image: url("assets/obr1.jpg");
     background-size: 600px 600px;
     display: inline-block;
     margin: 0;
@@ -55,7 +55,7 @@ body {
 }
 
 #arrowLeft {
-    background-image: url("arrowl.png");
+    background-image: url("assets/arrowl.png");
     height: 57px;
     width: 57px;
     float: left;
@@ -65,7 +65,7 @@ body {
 }
 
 #arrowRight {
-    background-image: url("arrowr.png");
+    background-image: url("assets/arrowr.png");
     height: 57px;
     width: 57px;
     float: right;
@@ -111,7 +111,7 @@ body {
     position: relative;
     top: 0;
     bottom: 0;
-    background-image: url("molang.jpg");
+    background-image: url("assets/molang.jpg");
     background-repeat: repeat;
     opacity: 0.8;
     width: 100%;

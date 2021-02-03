@@ -1,7 +1,7 @@
 var puzzle = {
 
-    imageTab: ['obr1.jpg', 'obr2.png', 'obr3.jpg', 'obr4.jpg'],
-    puzzleImage: 'obr1.jpg',
+    imageTab: ['assets/obr1.jpg', 'assets/obr2.png', 'assets/obr3.jpg', 'assets/obr4.jpg'],
+    puzzleImage: 'assets/obr1.jpg',
     img: 0,
     winningTab: [],
 
